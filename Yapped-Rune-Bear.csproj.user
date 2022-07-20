@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Chomp.Forms\DataSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\FieldAdjuster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\FieldExporter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\FieldReferenceSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\FilterSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\FindField.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\FindRow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\GoToRow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\InterfaceSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\NewRow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\RowReferenceSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp.Forms\SettingsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chomp\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
