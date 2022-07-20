@@ -1,6 +1,3 @@
-D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\Yapped-Rune-Bear.exe.config
-D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\Yapped-Rune-Bear.exe
-D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\Yapped-Rune-Bear.pdb
 D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\BouncyCastle.Crypto.dll
 D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\SoulsFormats.dll
 D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\SoulsFormats.pdb
@@ -15,5 +12,8 @@ D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear.csproj.GenerateRe
 D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear.GeneratedMSBuildEditorConfig.editorconfig
 D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear.csproj.CoreCompileInputs.cache
 D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear.csproj.CopyComplete
-D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear.exe
-D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear.pdb
+D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\Yapped-Rune-Bear-Tofus.exe.config
+D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\Yapped-Rune-Bear-Tofus.exe
+D:\githubPos\Yapped-Rune-Bear\bin\Debug\net48\Yapped-Rune-Bear-Tofus.pdb
+D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear-Tofus.exe
+D:\githubPos\Yapped-Rune-Bear\obj\Debug\net48\Yapped-Rune-Bear-Tofus.pdb

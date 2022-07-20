@@ -307,7 +307,7 @@ public class Main : Form
 
 	private void Main_Load(object sender, EventArgs e)
 	{
-		Text = "Yapped - Rune Bear Edition";
+		Text = "Yapped - Rune Bear  Rebuild By Tofus Edition";
 		toolTip_filterParams.SetToolTip(filter_Params.Control, filter_Params.ToolTipText);
 		toolTip_filterRows.SetToolTip(filter_Rows.Control, filter_Rows.ToolTipText);
 		toolTip_filterCells.SetToolTip(filter_Cells.Control, filter_Cells.ToolTipText);
