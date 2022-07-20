@@ -4849,7 +4849,7 @@ public class Main : Form
 		this.dgvCellsEditorNameCol.Width = 60;
 		this.dgvCellsValueCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
 		this.dgvCellsValueCol.DataPropertyName = "Value";
-		this.dgvCellsValueCol.HeaderText = "Value";
+		this.dgvCellsValueCol.HeaderText = "值";
 		this.dgvCellsValueCol.MinimumWidth = 50;
 		this.dgvCellsValueCol.Name = "dgvCellsValueCol";
 		this.dgvCellsValueCol.Width = 59;
